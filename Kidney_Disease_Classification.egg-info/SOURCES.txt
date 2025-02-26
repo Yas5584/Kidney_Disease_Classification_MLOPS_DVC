@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+Kidney_Disease_Classification.egg-info/PKG-INFO
+Kidney_Disease_Classification.egg-info/SOURCES.txt
+Kidney_Disease_Classification.egg-info/dependency_links.txt
+Kidney_Disease_Classification.egg-info/requires.txt
+Kidney_Disease_Classification.egg-info/top_level.txt
